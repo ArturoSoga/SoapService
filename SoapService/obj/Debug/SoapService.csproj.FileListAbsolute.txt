@@ -1,0 +1,7 @@
+C:\Users\Arturo\source\repos\SoapService\SoapService\obj\Debug\SoapService.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\SoapService\SoapService\obj\Debug\SoapService.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\SoapService\SoapService\bin\SoapService.dll.config
+C:\Users\Arturo\source\repos\SoapService\SoapService\bin\SoapService.dll
+C:\Users\Arturo\source\repos\SoapService\SoapService\bin\SoapService.pdb
+C:\Users\Arturo\source\repos\SoapService\SoapService\obj\Debug\SoapService.dll
+C:\Users\Arturo\source\repos\SoapService\SoapService\obj\Debug\SoapService.pdb
